@@ -1,5 +1,12 @@
 ![image](https://github.com/Bobby-Jack/exemple-context/assets/68663284/3cea04f4-a691-4998-b55a-83dacb158d03)
 
+# USAGE DU CONTEXT
+
+Les donnée de votre site peuvent être centralisé dans un fichier qui s'occupera de tout sa gestion.
+l'intéret est double:
+1. Vous éviter ainsi de devoir passer en props les infos de tout vos donnée dans votre arboraissance.
+2. Vous alèger vos fichier composent qui n'auront pas à contenir les fonctions de gestion des données.
+
 
 # EXEMPLE CONTEXT ET BONNE PRATIQUE
 

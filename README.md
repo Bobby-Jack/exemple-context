@@ -1,3 +1,6 @@
+![image](https://github.com/Bobby-Jack/exemple-context/assets/68663284/3cea04f4-a691-4998-b55a-83dacb158d03)
+
+
 # EXEMPLE CONTEXT ET BONNE PRATIQUE
 
 1. créer un fichier de context dans le dossier src/contexts (ThemeContext.jsx)

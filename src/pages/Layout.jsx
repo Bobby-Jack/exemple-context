@@ -7,7 +7,7 @@ function Layout({children}) {
     const {value} = useContext(ThemeContext)
 
     return (
-        <div className={value=='dark'?"layout dark":"layout light"}>
+        <div className={"layout "+value}>
             {children}
         </div>
     )

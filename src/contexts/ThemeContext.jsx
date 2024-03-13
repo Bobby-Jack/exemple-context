@@ -1,8 +1,6 @@
 import { createContext } from "react";
 import { useState } from "react";
 
-import { useLocalStorage } from "@uidotdev/usehooks";
-
 
 // ceci représente le context, çàd les donné qu'on veux concerver entre divers composent
 // dans ce cas ci on fourni un objet ayant une valeur et une fonction 
